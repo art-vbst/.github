@@ -1,7 +1,7 @@
 # Art Portfolio
 
-An open-source art portfolio website/shop meant to be deployed to the cloud.
+An open-source art portfolio website/shop deployed to the cloud.
 
 ## Getting started
 
-Navigate to the [`art` container repo](https://github.com/art-vbst/art) and follow the instructions to get started.
+Navigate to the [`art`](https://github.com/art-vbst/art) container repo and follow the instructions to get started.
